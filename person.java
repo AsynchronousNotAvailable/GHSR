@@ -3,6 +3,7 @@ public class person {
 
         System.out.print(addNum(1, 2));
         System.out.println("This is a commit from main branch");
+        System.out.println("Hello world");
     }
     
     static int addNum(int a, int b) {
