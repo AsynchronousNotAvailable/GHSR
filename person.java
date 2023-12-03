@@ -1,9 +1,9 @@
 public class person {
     public static void main(String[] args) {
-        System.out.print(sayHi());
+        System.out.print(saySomething());
     }
     
-    static String sayHi() {
-        return new String("This is a main branch commit");
+    static String saySomething() {
+        return new String("This is a new branch commit");
     }
 }
