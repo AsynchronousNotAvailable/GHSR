@@ -2,6 +2,7 @@ public class person {
     public static void main(String[] args) {
 
         System.out.print(addNum(1, 2));
+        System.out.println("Hello world");
     }
     
     static int addNum(int a, int b) {
