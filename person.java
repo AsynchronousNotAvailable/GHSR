@@ -5,6 +5,6 @@ public class person {
     }
     
     static int addNum(int a, int b) {
-        return a + b + 2;
+        return a + b + 2 + 90 * b;
     }
 }
