@@ -1,6 +1,5 @@
 public class person {
-    public static void main(String[] args) {
-        System.out.print(sayHello());
+    public static void main(String [] args) {
         System.out.println("This is a test");
     }
     
