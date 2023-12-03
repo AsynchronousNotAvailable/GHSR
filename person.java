@@ -1,6 +1,6 @@
 public class person {
     public static void main(String[] args) {
-        System.out.println("This is not a test");
+        System.out.println("Lorem ipsum ksdjkadj");
     }
     
 }
