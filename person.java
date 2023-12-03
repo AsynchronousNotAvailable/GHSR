@@ -1,6 +1,6 @@
 public class person {
     public static void main(String[] args) {
-        System.out.print(saySomething());
+        System.out.print("Hello World");
     }
     
     static String saySomething() {
