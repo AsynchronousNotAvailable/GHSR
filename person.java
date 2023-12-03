@@ -6,6 +6,7 @@ public class person {
     }
     
     static int addNum(int a, int b) {
+        System.out.println("Hello world");
         return a + b + 2 + 90 * b;
     }
 }
